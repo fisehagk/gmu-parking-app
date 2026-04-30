@@ -17,7 +17,7 @@ The app allows users to discover open parking spots, claim them, and navigate di
 </p>
 
 <p align="center">
-  <img src="assets/images/login.png" height="450"/>
+  <img src="assets/images/login.png" height="500"/>
   <img src="assets/images/signup.png" height="500"/><br>
   <em>Secure user authentication with Firebase (Login and Sign Up with email verification).</em>
 </p>
