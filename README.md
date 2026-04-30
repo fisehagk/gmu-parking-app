@@ -81,14 +81,31 @@ MAPS_API_KEY=your_api_key_here
 
 ## 📂 Project Structure
 
+<pre>
 ParkGMU/
-├── activities/
-├── models/
-├── res/
-│   ├── layout/
-│   ├── drawable/
-├── Firebase Config
-├── AndroidManifest.xml
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/parkgmu/
+│   │   │   │   ├── MainActivity.java
+│   │   │   │   ├── MapsActivity.java
+│   │   │   │   ├── SignInActivity.java
+│   │   │   │   ├── SignUpActivity.java
+│   │   │   │   ├── UserProfileActivity.java
+│   │   │   │   ├── User.java
+│   │   │   │   └── MyMarker.java
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   ├── drawable/
+│   │   │   │   └── values/
+│   │   │   └── AndroidManifest.xml
+│   │   └── google-services.json
+├── assets/
+│   └── images/
+├── build.gradle.kts
+├── settings.gradle.kts
+└── README.md
+</pre>
 
 ---
 
