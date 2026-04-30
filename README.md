@@ -12,13 +12,13 @@ The app allows users to discover open parking spots, claim them, and navigate di
 ### 🏠 Welcome & Authentication
 
 <p align="center">
-  <img src="assets/images/welcome.png" height="500"/><br>
+  <img src="assets/images/welcome.png" height="800"/><br>
   <em>Welcome screen with entry points to Sign Up, Sign In, or directly access the map.</em>
 </p>
 
 <p align="center">
-  <img src="assets/images/login.png" height="500"/>
-  <img src="assets/images/signup.png" height="500"/><br>
+  <img src="assets/images/login.png" height="800"/>
+  <img src="assets/images/signup.png" height="800"/><br>
   <em>Secure user authentication with Firebase (Login and Sign Up with email verification).</em>
 </p>
 
@@ -27,13 +27,13 @@ The app allows users to discover open parking spots, claim them, and navigate di
 ### 🗺️ Map & Parking System
 
 <p align="center">
-  <img src="assets/images/map.png" height="500"/>
-  <img src="assets/images/location.png" height="500"/><br>
+  <img src="assets/images/map.png" height="800"/>
+  <img src="assets/images/location.png" height="800"/><br>
   <em>Interactive Google Map displaying real-time parking availability and the user’s current location.</em>
 </p>
 
 <p align="center">
-  <img src="assets/images/checkin.png" height="500"/><br>
+  <img src="assets/images/checkin.png" height="800"/><br>
   <em>Check-in functionality allowing users to claim a parking spot.</em>
 </p>
 
@@ -42,8 +42,8 @@ The app allows users to discover open parking spots, claim them, and navigate di
 ### 👤 User Profile
 
 <p align="center">
-  <img src="assets/images/profile_before.png" height="500"/>
-  <img src="assets/images/profile_after.png" height="500"/><br>
+  <img src="assets/images/profile_before.png" height="800"/>
+  <img src="assets/images/profile_after.png" height="800"/><br>
   <em>User profile displaying account information and parking status before and after check-in.</em>
 </p>
 
