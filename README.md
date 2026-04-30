@@ -7,19 +7,26 @@ The app allows users to discover open parking spots, claim them, and navigate di
 
 ---
 
-### 📸 App Screenshots
+## 📸 App Screenshots
 
-### 🏠 Welcome & Authentication
-
+### 🏠 Welcome Screen
 <p align="center">
-  <img src="assets/images/welcome.png" height="520"/><br>
+  <img src="assets/images/welcome.png" width="75%"/><br>
   <em>Welcome screen with entry points to Sign Up, Sign In, or directly access the map.</em>
 </p>
 
+---
+
+### 🔐 Authentication
+
 <p align="center">
-  <img src="assets/images/login.png" height="520" style="margin-right:10px;"/>
-  <img src="assets/images/signup.png" height="520"/><br>
-  <em>Secure user authentication with Firebase (Login and Sign Up with email verification).</em>
+  <img src="assets/images/login.png" width="75%"/><br>
+  <em>User login using Firebase Authentication.</em>
+</p>
+
+<p align="center">
+  <img src="assets/images/signup.png" width="75%"/><br>
+  <em>New user registration with email verification.</em>
 </p>
 
 ---
@@ -27,14 +34,18 @@ The app allows users to discover open parking spots, claim them, and navigate di
 ### 🗺️ Map & Parking System
 
 <p align="center">
-  <img src="assets/images/map.png" height="520" style="margin-right:10px;"/>
-  <img src="assets/images/location.png" height="520"/><br>
-  <em>Interactive Google Map displaying real-time parking availability and the user’s current location.</em>
+  <img src="assets/images/map.png" width="75%"/><br>
+  <em>Real-time map showing available parking spots.</em>
 </p>
 
 <p align="center">
-  <img src="assets/images/checkin.png" height="520"/><br>
-  <em>Check-in functionality allowing users to claim a parking spot.</em>
+  <img src="assets/images/location.png" width="75%"/><br>
+  <em>Displays the user's current location on the map.</em>
+</p>
+
+<p align="center">
+  <img src="assets/images/checkin.png" width="75%"/><br>
+  <em>Check-in functionality to claim a parking spot.</em>
 </p>
 
 ---
@@ -42,9 +53,13 @@ The app allows users to discover open parking spots, claim them, and navigate di
 ### 👤 User Profile
 
 <p align="center">
-  <img src="assets/images/profile_before.png" height="520" style="margin-right:10px;"/>
-  <img src="assets/images/profile_after.png" height="520"/><br>
-  <em>User profile displaying account information and parking status before and after check-in.</em>
+  <img src="assets/images/profile_before.png" width="75%"/><br>
+  <em>User profile before selecting a parking spot.</em>
+</p>
+
+<p align="center">
+  <img src="assets/images/profile_after.png" width="75%"/><br>
+  <em>User profile after check-in with navigation to parked vehicle.</em>
 </p>
 
 ---
