@@ -119,12 +119,6 @@ ParkGMU/
 
 ---
 
-## 🎥 Demo
-
-(Add your demo video link here)
-
----
-
 ## 💡 Highlights
 
 - Real-world problem solving (campus parking)
