@@ -9,23 +9,29 @@ The app allows users to discover open parking spots, claim them, and navigate di
 
 ## 📸 App Screenshots
 
-### 🏠 Welcome Screen
-![Welcome Screen](assets/images/welcome.png)
+### 🏠 Welcome & Authentication
 
-### 🔐 Login Screen
-![Login Screen](assets/images/login.png)
+<p align="center">
+  <img src="assets/images/welcome.png" width="45%" />
+  <img src="assets/images/login.png" width="45%" />
+</p>
 
-### 📝 Sign Up Screen
-![Sign Up Screen](assets/images/signup.png)
+<p align="center">
+  <img src="assets/images/signup.png" width="45%" />
+</p>
 
-### 🗺️ Parking Map (Available Spots)
-![Map View](assets/images/map.png)
+---
 
-### 📍 Check-In (Claimed Spot)
-![Check In](assets/images/checkin.png)
+### 🗺️ Map & Parking
 
-### 📍 Current Location
-![Current Location](assets/images/location.png)
+<p align="center">
+  <img src="assets/images/map.png" width="45%" />
+  <img src="assets/images/location.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="assets/images/checkin.png" width="45%" />
+</p>
 
 ---
 
