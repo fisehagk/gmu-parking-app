@@ -54,7 +54,7 @@ The app allows users to discover open parking spots, claim them, and navigate di
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/parkgmu.git
+git clone https://github.com/fisehagk/gmu-parking-app.git
 
 ### 2. Open in Android Studio
 
