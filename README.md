@@ -1,7 +1,9 @@
-# 🚗 ParkGMU — Smart Campus Parking App
+# ParkGMU — Smart Campus Parking App
 
 ## 📌 Overview
-ParkGMU is a real-time, crowd-powered Android application that helps students at George Mason University find and share parking availability using Google Maps and Firebase.
+ParkGMU is a real-time Android application that helps students at George Mason University find and share parking availability using Google Maps and Firebase.
+
+The app allows users to discover open parking spots, claim them, and navigate directly to their parked vehicle.
 
 ---
 
@@ -13,6 +15,9 @@ ParkGMU is a real-time, crowd-powered Android application that helps students at
 ### 🔐 Login Screen
 ![Login Screen](assets/images/login.png)
 
+### 📝 Sign Up Screen
+![Sign Up Screen](assets/images/signup.png)
+
 ### 🗺️ Parking Map (Available Spots)
 ![Map View](assets/images/map.png)
 
@@ -22,34 +27,96 @@ ParkGMU is a real-time, crowd-powered Android application that helps students at
 ### 📍 Current Location
 ![Current Location](assets/images/location.png)
 
-### 👤 User Profile
-![Profile](assets/images/profile.png)
-
 ---
 
 ## ✨ Features
 
-- 🔐 Firebase Authentication (Sign Up / Sign In / Email Verification)
-- 🗺️ Google Maps integration with real-time markers
-- 📍 Check-In / Check-Out parking system
-- 🚘 Navigation to parked vehicle
-- 👤 User profile with parking info
-- 🔄 Persistent login sessions
+- Firebase Authentication (Sign Up / Sign In / Email Verification)
+- Google Maps integration with real-time parking markers
+- Check-In / Check-Out system for parking spots
+- Navigation to parked vehicle using Google Maps
+- User profile with parking information
+- Persistent login session handling
 
 ---
 
 ## 🏗️ Tech Stack
 
-- **Frontend:** Android (Java, XML)
-- **Maps:** Google Maps SDK
-- **Backend:** Firebase Firestore
-- **Authentication:** Firebase Auth
-- **Location:** Android Location Services
+- Frontend: Android (Java, XML)
+- Maps: Google Maps SDK
+- Backend: Firebase Firestore
+- Authentication: Firebase Authentication
+- Location: Android Location Services
 
 ---
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the repo
-```bash
+### 1. Clone the repository
+
 git clone https://github.com/your-username/parkgmu.git
+
+### 2. Open in Android Studio
+
+Open the project folder in Android Studio.
+
+### 3. Configure Firebase
+
+- Add your own `google-services.json`
+- Enable Authentication (Email/Password)
+- Enable Firestore Database
+
+### 4. Add Google Maps API Key
+
+Add this line to your `local.properties` file:
+
+MAPS_API_KEY=your_api_key_here
+
+### 5. Run the application
+
+- Use an emulator or physical device
+- Enable location services
+
+---
+
+## 📂 Project Structure
+
+ParkGMU/
+├── activities/
+├── models/
+├── res/
+│   ├── layout/
+│   ├── drawable/
+├── Firebase Config
+├── AndroidManifest.xml
+
+---
+
+## 🚀 Future Improvements
+
+- Real-time updates using Firestore listeners
+- Parking expiration timers
+- Push notifications
+- UI/UX improvements
+- ML-based parking prediction
+
+---
+
+## 🎥 Demo
+
+(Add your demo video link here)
+
+---
+
+## 💡 Highlights
+
+- Real-world problem solving (campus parking)
+- Full-stack mobile + cloud integration
+- Real-time data synchronization
+- Clean modular architecture
+
+---
+
+## 👤 Author
+
+Fiseha K.
