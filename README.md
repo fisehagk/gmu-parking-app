@@ -12,12 +12,9 @@ The app allows users to discover open parking spots, claim them, and navigate di
 ### 🏠 Welcome & Authentication
 
 <p align="center">
-  <img src="assets/images/welcome.png" width="45%" />
-  <img src="assets/images/login.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="assets/images/signup.png" width="45%" />
+  <img src="assets/images/welcome.png" width="30%" />
+  <img src="assets/images/login.png" width="30%" />
+  <img src="assets/images/signup.png" width="30%" />
 </p>
 
 ---
@@ -25,12 +22,9 @@ The app allows users to discover open parking spots, claim them, and navigate di
 ### 🗺️ Map & Parking
 
 <p align="center">
-  <img src="assets/images/map.png" width="45%" />
-  <img src="assets/images/location.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="assets/images/checkin.png" width="45%" />
+  <img src="assets/images/map.png" width="30%" />
+  <img src="assets/images/location.png" width="30%" />
+  <img src="assets/images/checkin.png" width="30%" />
 </p>
 
 ---
